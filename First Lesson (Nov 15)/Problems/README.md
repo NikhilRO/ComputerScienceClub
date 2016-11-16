@@ -1,4 +1,4 @@
-## Problems requiring Condtionals
+## Problems requiring Conditionals
 
 ####Think about algorithms to solve these problems as you read them 
 
